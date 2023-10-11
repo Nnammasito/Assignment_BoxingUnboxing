@@ -1,0 +1,14 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\bin\Debug\net7.0\Assignment_BoxingUnboxing.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\bin\Debug\net7.0\Assignment_BoxingUnboxing.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\bin\Debug\net7.0\Assignment_BoxingUnboxing.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\bin\Debug\net7.0\Assignment_BoxingUnboxing.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\bin\Debug\net7.0\Assignment_BoxingUnboxing.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\Assignment_BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\Assignment_BoxingUnboxing.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\Assignment_BoxingUnboxing.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\Assignment_BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\Assignment_BoxingUnboxing.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\refint\Assignment_BoxingUnboxing.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\Assignment_BoxingUnboxing.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\Assignment_BoxingUnboxing.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_BoxingUnboxing\obj\Debug\net7.0\ref\Assignment_BoxingUnboxing.dll

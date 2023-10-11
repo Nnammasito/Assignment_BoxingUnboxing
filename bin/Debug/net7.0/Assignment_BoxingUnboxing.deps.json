@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Assignment_BoxingUnboxing/1.0.0": {
+        "runtime": {
+          "Assignment_BoxingUnboxing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_BoxingUnboxing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
